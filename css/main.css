@@ -426,7 +426,7 @@ div .excell h3,
     .values-flex2 {
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-around;     
+        justify-content: center;     
 }
 
 
